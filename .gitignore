@@ -21,7 +21,19 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
 MANIFEST
+# API Configuration (local development only)
+# Please make sure that your API keys ARE NOT uploaded to your GitHub repo
+frontend/js/api-config.js
+api-config.js
+
+# Editor files
+# Please add these four lines to your .gitignore file too
+.vscode/
+.idea/
+*.swp
+*.swo
 
 # Environment variables
 .env
