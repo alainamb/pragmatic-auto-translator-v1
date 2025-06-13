@@ -16,11 +16,11 @@ async function loadCorpusSources() {
         // Load both corpus databases - using absolute paths for GitHub Pages
         const baseUrl = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' 
             ? '../corpora/gai/' 
-            : '/pragmatic-auto-translator/corpora/gai/';
+            : '/Traductor-automatico-historia-victoriana/corpora/hvm/';
             
         const [englishData, spanishData] = await Promise.all([
-            fetchCorpusData(baseUrl + 'eng/gai-eng_database.json'),
-            fetchCorpusData(baseUrl + 'esp/gai-esp_database.json')
+            fetchCorpusData(baseUrl + 'eng/hvm-eng_database.json'),
+            fetchCorpusData(baseUrl + 'esp/hvm-esp_database.json')
         ]);
         
         console.log('English data loaded:', englishData);
