@@ -152,7 +152,7 @@ select option {
     padding: 0.25rem 0.75rem;
     font-size: 0.875rem;
     font-weight: 500;
-    color: var(--gray-700);
+    color: var(--white-700);
     border-bottom: 2px solid transparent;
     text-decoration: none;
 }
