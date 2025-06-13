@@ -1,0 +1,138 @@
+{
+  "documents": {
+    "hvm-eng_item003": {
+      "document_metadata": {
+        "language_family": "eng",
+        "language_variant": "usa",
+        "title": "From sinners to degenerates: the medicalization of morality in the 19th century",
+        "authors": [
+          {
+            "name": "Heidi Rimke", 
+            "affiliation": "University of Winnipeg"
+          },
+          {
+            "name": "Alan Hunt",
+            "affiliation": "University of Southampton"
+          }
+        ],
+        "publisher": "SAGE Publications",
+        "publication_year": "2002",
+        "domain": "Victorian_History",
+        "text_type": 
+          ["Academic paper"],
+        "purpose": 
+          ["Informational"],
+        "point_of_view": 
+          [ "Academic"],
+        "audience": 
+          [ "Academic", "Educators", "Professional", "Researchers", "Students", "Subject matter experts" ],
+        "reach": 
+          [ "Cross-organizational", "For informational purposes only", "Global", "National" ],
+        "topics": [
+          "History",
+          "Sociology",
+          "Psychiatry"
+        ],
+        "summary": "This article explores two very different forms in which immoral conduct was problematized over the course of the 19th century. It does this by contrasting the sexual purity politics of the Vice Society and the medicalization of morality as ‘moral insanity’. Early in the century the Vice Society promoted coercive legislation with the aim of ‘suppressing vice’. From mid-century, moral insanity theories sought to grapple with vice by disaggregating ‘moral’ from other forms of insanity. These two movements had quite distinct and incompatible lines of development; and they never overtly engaged with each other. The article makes its key argument by demonstrating the way in which such dissimilar trajectories came together towards the end of the century in the ‘moral hygiene’ movement, mobilizing discourses of ‘degeneration’ (and ‘feeblemindedness’) with projects promoting sexual purity.",
+        "suggested_citation": "Rimke, H., & Hunt, A. (2002). From sinners to degenerates: The medicalization of morality in the 19th century. History of the human sciences, 15(1), 59-88." 
+      },
+      "processing_metadata": {
+        "submission_file_name": "hvm-eng_item003.pdf",
+          "creation_date": "2025-05-06",
+          "word_count": 0,
+          "status": "vectorization_pending",
+          "file_paths": {
+            "original": "hvm-eng_item003.pdf",
+            "processed": "hvm-eng_item003.json"
+          }
+       }
+     },
+      "hvm-eng_item004": {
+        "document_metadata": {
+         "language_family": "eng",
+         "language_variant": "usa",
+         "title": "In the name of 'Chilhood innocence': A discursive exploration of the moral panic associated with chilhood and sexuality",
+         "authors": [
+          {
+            "name": "Kerry H. Robinson", 
+            "affiliation": "Western Sydney University"
+          }
+        ],
+         "publisher": "Routledge",
+         "publication_year": "2013",
+         "domain": "Victorian_History",
+         "text_type": 
+          ["Academic paper"],
+         "purpose": 
+          ["Informational"],
+         "point_of_view": 
+          [ "Academic"],
+         "audience": 
+          [ "Academic", "Educators", "Professional", "Researchers", "Students", "Subject matter experts" ],
+         "reach": 
+          [ "Cross-organizational", "For informational purposes only", "Global", "National" ],
+         "topics": [
+          "History",
+          "Sociology",
+          "Sexuality"
+        ],
+        "summary": "This essay critically examines how moral panics are used as a political strategy for maintaining the hegemony of the nuclear family, the sanctity of heterosexual relationships and the heteronormative social order. It focuses on the moral panic associated with children and sexuality, particularly that which is manifested around non-heterosexual subjectivities. The discussion is based on a discursive analysis of media representations of the moral panics that occurred in Australia during the period 2004 to 2006 around the following issues: a Play School episode, the Learn to Include booklets,6 and the We're Here resource. The hegemonic discourses around childhood innocence, sexuality and the construction of the homosexual as folk devil are explored. I show how these discourses are mobilised by right-wing politicians and moral entrepreneurs to strategically instigate a moral panic at critical points in time, in order to reassert conservative values within a heteronormative social order. It is notable that each of the moral panics explored here arose at times when the Australian government was lobbying to exclude legal recognition of same-sex marriages or civil unions. Foucault's concept of the technologies of power provides a useful mechanism through which to examine the role of the media, politicians and moral entrepreneurs in reinscribing the heteronormative status quo and reaffirming the hegemony of the nuclear family.",
+        "suggested_citation": "Robinson, K. H. (2008). In the name of'childhood innocence': A discursive exploration of the moral panic associated with childhood and sexuality. Cultural Studies Review, 14(2), 113-129." 
+      },
+      "processing_metadata": {
+        "submission_file_name": "hvm-eng_item004.pdf",
+          "creation_date": "2025-05-06",
+          "word_count": 0,
+          "status": "vectorization_pending",
+          "file_paths": {
+            "original": "hvm-eng_item004.pdf",
+            "processed": "hvm-eng_item004.json"
+          }
+        }
+      },
+      "hvm-eng_item002": {
+        "document_metadata": {
+         "language_family": "eng",
+         "language_variant": "usa",
+         "title": "MOTHER KNOWS BEST: METHODISM, SEVENTH-DAY ADVENTISM, AND DIETARY MORALITY IN VICTORIAN AMERICA",
+         "authors": [
+          {
+            "name": "Emily Jean Bailey", 
+            "affiliation": "University of Pittsburgh"
+          }
+        ],
+         "publisher": "University of Pittsburgh",
+         "publication_year": "2010",
+         "domain": "Victorian_History",
+         "text_type": 
+          ["Academic paper"],
+         "purpose": 
+          ["Informational"],
+         "point_of_view": 
+          [ "Academic"],
+         "audience": 
+          [ "Academic", "Educators", "Professional", "Researchers", "Students", "Subject matter experts" ],
+         "reach": 
+          [ "Cross-organizational", "For informational purposes only", "Global", "National" ],
+         "topics": [
+          "History",
+          "Sociology",
+          "Sexuality"
+        ],
+        "summary": "The many connections between food and religion have been recognized by scholars as serious topics of academic study only within the past few decades, as shifting perceptions about the seemingly mundane act of eating have started to focus on food as a potential signifier of gender, class, race, and even religious identity. Though kashrut and halal parameters for diet and food preparation in Judaism and Islam clearly delineate what it means to eat like a Jew or Muslim, it is difficult to define what it means to “eat like a Christian” without similar guidelines to follow. In particular, Protestant Christian approaches to eating are far less prescribed, or universally defined. What a study of Protestant food practices can reveal, however, is the significant contributions of Protestant women in defining American diet and cultural identity.",
+        "suggested_citation": "Bailey, E. J. (2015). Mother knows best: Methodism, Seventh-day Adventism, and dietary morality in Victorian America (Doctoral dissertation, University of Pittsburgh)." 
+      },
+      "processing_metadata": {
+        "submission_file_name": "hvm-eng_item004.pdf",
+          "creation_date": "2025-05-06",
+          "word_count": 0,
+          "status": "vectorization_pending",
+          "file_paths": {
+            "original": "hvm-eng_item004.pdf",
+            "processed": "hvm-eng_item004.json"
+          },
+          "processing_notes": "Processing notes"
+      }
+    }
+  }
+}
