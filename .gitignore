@@ -54,9 +54,6 @@ yarn.lock
 # GitHub Actions artifacts
 .github/workflows/artifacts/
 
-# Project-specific ignores
-README.md
-
 # Backups
 backups/
 
