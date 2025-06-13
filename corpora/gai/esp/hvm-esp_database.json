@@ -1,0 +1,136 @@
+{
+  "documents": {
+    "hvm-esp_item002": {
+      "document_metadata": {
+        "language_family": "esp",
+        "language_variant": "col",
+        "title": "Almas encerradas, cuerpos al desnudo: sexualidad, erotismo y feminidad en la edad victoriana",
+        "authors": [
+          {
+            "name": "Luca Tommaso Catullo MacIntyre", 
+            "affiliation": "Universidad de Antioquia"
+          }
+        ],
+        "publisher": "Universidad de Antioquia",
+        "publication_year": "2023",
+        "domain": "Victorian_History",
+        "text_type": 
+          ["Academic paper"],
+        "purpose": 
+          ["Informational"],
+        "point_of_view": 
+          [ "Academic"],
+        "audience": 
+          [ "Academic", "Educators", "Professional", "Researchers", "Students", "Subject matter experts" ],
+        "reach": 
+          [ "Cross-organizational", "For informational purposes only", "Global", "National" ],
+        "topics": [
+          "History",
+          "Morality",
+          "Sexuality"
+        ],
+        "summary": "A través de este escrito nos adentraremos en el contexto histórico y social de la edad victoriana y de algunos de sus autores. Analizaremos temas inherentes a la sexualidad, sus leyes y prohibiciones. En contraste con el progreso tecnológico que experimentó la sociedad británica durante el siglo XIX, la época victoriana se caracterizó por un puritanismo exagerado, una tremenda represión sexual y la infravaloración de la mujer, transformada en responsable de todos los males sociales. Moral que fue duramente criticada por algunos de sus contemporáneos, como los escritores Oscar Wilde y Bernard Shaw, que reflejaron en sus obras la mediocridad y la estrechez de miradas de aquella sociedad. Por lo tanto, a lo largo de este artículo, examinaremos leyes represivas y restrictivas que dan crédito a tal afirmación. La dualidad de la época victoriana será el tema y núcleo principal del estudio, en relación con el contexto histórico, social y político de la sociedad inglesa durante el periodo en cuestión. Las conexiones literarias entre transformación psicológica, dualidad y carácter del personaje literario, entendido en sentido genérico o bien como un yo literario, serán determinantes, pues nos remiten a las concepciones de los autores en torno a la personalidad dualista como reelaboración o como metáfora de la existencia humana y de la vida en su transformación material. Los resultados de esta investigación, a lo largo de sus detalladas cinco secciones y su conclusión, nos inducen a creer que la victoriana fue una sociedad plenamente dual, donde, por un lado, se emanaron leyes represivas de género y, por el otro, se dio total desenfreno al libertinaje.",
+        "suggested_citation": "MacIntyre, L. T. C. (2023). Almas encerradas, cuerpos al desnudo: sexualidad, erotismo y feminidad en la edad victoriana. Escritos, 31(67)." 
+      },
+      "processing_metadata": {
+        "submission_file_name": "hvm-esp_item002.pdf", 
+          "creation_date": "2025-05-06",
+          "word_count": 0,
+          "status": "vectorization_pending",
+          "file_paths": {
+            "original": "hvm-esp_item002.pdf",
+            "processed": "hvm-esp_item002.json"
+          }
+        }
+      },
+      "hvm-esp_item003": {
+       "document_metadata": {
+         "language_family": "esp",
+         "language_variant": "esp",
+         "title": "EL PERFIL DE LA INSTITUTRIZ Y LA EDUCACIÓN FEMENINA VICTORIANA EN AGNES GREY DE ANNE BRONTË",
+         "authors": [
+          {
+            "name": "Blanca Paula RODRÍGUEZ GARABATOS", 
+            "affiliation": "Universidade da Coruña"
+          }
+        ],
+         "publisher": "DIGILEC Revista Internacional de Lenguas y Culturas",
+         "publication_year": "2023",
+         "domain": "Victorian_History",
+         "text_type": 
+          ["Academic paper"],
+         "purpose": 
+          ["Informational"],
+         "point_of_view": 
+          [ "Academic"],
+         "audience": 
+          [ "Academic", "Educators", "Professional", "Researchers", "Students", "Subject matter experts" ],
+         "reach": 
+          [ "Cross-organizational", "For informational purposes only", "Global", "National" ],
+         "topics": [
+          "History",
+          "Literature",
+          "Gender roles"
+        ],
+        "summary": "En las novelas victorianas, el personaje de la institutriz (“governess”) es muy interesante debido a la singularidad de su propia educación y a las particularidades que rodean el ejercicio de su profesión. En Agnes Grey de Anne Brontë, la autora dibuja un perfil laboral, social y psicológico de la protagonista que viene determinado por la exclusión social y la alienación. La governess es una mujer que se aleja de los arquetipos femeninos aceptables por la sociedad. Nos referimos a una fémina culta y lectora a la que se critica por sus aficiones, una figura que roza lo maternal, pero cuyo cariño y autoridad se desdeñan porque no es madre, una soltera joven cuya pulsión sexual y posible atractivo deben ser reprimidos, un ejemplo de virtudes cristianas imprescindibles para guiar a sus pupilos, quienes, no obstante, desoyen sus consejos. La historia de Agnes Grey nos permite trazar un panorama general sobre la personalidad y desempeño de sus colegas de profesión y nos ofrece una imagen poco halagüeña de un oficio que, en principio, podría resultar enormemente gratificante.",
+        "suggested_citation": "Rodríguez Garabatos, B. P. (2023). El perfil de la institutriz y la educación femenina victoriana en Agnes Grey de Anne Brontë. DIGILEC: Revista Internacional de Lenguas y Culturas, 10, 55-73."
+      },
+      "processing_metadata": {
+        "submission_file_name": "hvm-esp_item003.pdf", 
+          "creation_date": "2025-05-06",
+          "word_count": 0,
+          "status": "vectorization_pending",
+          "file_paths": {
+            "original": "hvm-esp_item003.pdf",
+            "processed": "hvm-esp_item003.json"
+          }
+        }
+      },
+      "hvm-esp_item004": {
+       "document_metadata": {
+         "language_family": "esp",
+         "language_variant": "mex",
+         "title": "La unidad en la vida y obra del esteta Oscar Wilde como espejo de la sociedad, moral y costumbres de la segunda mitad de la era victoriana (1861-1901)",
+         "authors": [
+          {
+            "name": "Fernanda Lorena Martínez Ramiréz", 
+            "affiliation": "Universidad Autonóma de Aguascalientes"
+          }
+        ],
+         "publisher": "HorizonteHistórico",
+         "publication_year": "2023",
+         "domain": "Victorian_History",
+         "text_type": 
+          ["Academic paper"],
+         "purpose": 
+          ["Informational"],
+         "point_of_view": 
+          [ "Academic"],
+         "audience": 
+          [ "Academic", "Educators", "Professional", "Researchers", "Students", "Subject matter experts" ],
+         "reach": 
+          [ "Cross-organizational", "For informational purposes only", "Global", "National" ],
+         "topics": [
+          "History",
+          "Literature",
+          "Morality"
+        ],
+        "summary": "La obra del escritor irlandés Oscar Fingal O`Flahertie Wills Wilde refleja no sólo su filosofía en cuanto al esteticismo y la moralidad, sino también su postura política e ideológica. Se presenta en primer lugar una breve semblanza del autor, seguida por los rasgos más relevantes de su contexto histórico en relación con los principios que defendió. A continuación, se analiza este contexto por medio de dos de sus obras. Por un lado, el cuento El cumpleaños de la Infanta, de la colección Una casa de granadas, y por el otro, su novela El retrato de Dorian Gray, que en conjunto ejemplifican su postura ante los excesos de la sociedad inglesa.",
+        "suggested_citation": "MacIntyre, L. T. C. (2023). Almas encerradas, cuerpos al desnudo: sexualidad, erotismo y feminidad en la edad victoriana. Escritos, 31(67)." 
+      },
+      "processing_metadata": {
+        "submission_file_name": "hvm-esp_item004.pdf", 
+          "creation_date": "2025-05-06",
+          "word_count": 0,
+          "status": "vectorization_pending",
+          "file_paths": {
+            "original": "hvm-esp_item004.pdf",
+            "processed": "hvm-esp_item004.json"
+          },
+          "processing_notes": "Processing notes"
+        
+      }
+    }
+  }
+}
+
